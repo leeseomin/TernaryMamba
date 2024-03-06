@@ -22,7 +22,8 @@
 
 
 
-## test : 해도 에러나네 이거. 
+## test : 
+해도 에러나네 이거. 
 
 
 🟧 ```python inference.py --model_path model.safetensors --text "Once upon a time" --max_length 200```   
