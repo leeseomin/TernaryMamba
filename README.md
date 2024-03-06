@@ -1,15 +1,15 @@
 # BitNet-b1.58-mamba
 
-
-### dependency
+<br><br>
+## dependency
 
  pip install mamba-ssm causal-conv1d
 
 
- 
-
-run
-
+ <br>
+<br>
+## run
+<br>
 
 b158_mamba_v2.py  : 기본 BitNet-b1.58-mamba
 
