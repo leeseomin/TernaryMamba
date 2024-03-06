@@ -11,6 +11,9 @@
 <br>
 
 🟧 ```b158_mamba_v2.py```  : 기본 BitNet-b1.58-mamba   : 현재까지 추천 
+🟧 ```b158_mamba_v2a.py```  : 기본 BitNet-b1.58-mamba   : 현재까지 추천 + safetensor로 저장하기 추가 
+
+
 
 ```b158_mamba_v6.py``` : 기본 BitNet-b1.58-mamba + Straight-Through Estimator (STE) 기법추가 : 돌려보니 비추하는 기법
 
