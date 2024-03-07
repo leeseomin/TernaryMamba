@@ -21,7 +21,7 @@ A ternary quantized language model based on the Mamba architecture, enabling mod
 
 🟧🟧🟧🟧🟧 OpenWebText 다운로드후  1/10 만 훈련, 대략 1.7GB 의 train 데이터셋 (리소스제한등) 
 
-🟧 ```b158_mamba_OpenWeb_colab-v9.ipynb```  : 기본 BitNet-b1.58-mamba  colab용    : 현재까지 추천,  a100,v100 등 추천  25g vram 사용
+🟧 ```b158_mamba_OpenWeb_colab-v9.ipynb```  : 기본 BitNet-b1.58-mamba  colab용    : 현재까지 추천,  a100,v100 등 추천  25g vram 사용  : 단 loss 그래프 종료시 안나옴 ㅠ 
 
 🟧 로컬용 
 
