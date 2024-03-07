@@ -17,6 +17,16 @@
 🟧 ```b158_mamba_v3.py```  : 기본 BitNet-b1.58-mamba   : 현재까지 추천  + Shakespeare 직적다운후에 진행 
 
 
+🟧🟧 OpenWebText 다운로드후  1/10 만 훈련 
+
+🟧 ```b158_mamba_OpenWeb_colab-v9.ipynb```  : 기본 BitNet-b1.58-mamba  colab용    : 현재까지 추천,  a100,v100 등 추천  25g vram 사용
+
+🟧 로컬용 
+
+
+
+
+
 
 ```b158_mamba_v6.py``` : 기본 BitNet-b1.58-mamba + Straight-Through Estimator (STE) 기법추가 : 돌려보니 비추하는 기법
 
