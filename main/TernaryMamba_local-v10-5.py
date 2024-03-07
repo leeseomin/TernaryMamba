@@ -13,7 +13,7 @@ from datasets import load_dataset
 # Hyperparams
 epochs = 100
 lr = 1e-3
-batch_size = 48  #64->48 for 24vram
+batch_size = 32  #64->32 for 24vram
 block_size = 256
 device = "cuda" if torch.cuda.is_available() else "cpu"
 max_iters = 10000
