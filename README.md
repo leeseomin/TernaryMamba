@@ -23,7 +23,7 @@ A ternary quantized language model based on the Mamba architecture, enabling mod
 
 🟧 ```mamba_OpenWeb_colab-v10.ipynb```  : 기본 mamba  colab용    : 
 
-🟧 ```b158_mamba_OpenWeb_colab-v10.ipynb```  : 기본 BitNet-b1.58-mamba  colab용    : 현재까지 추천,  a100,v100 등 추천  25g vram 사용 , loss 그래프 나옴 
+🟧 ```b158_mamba_OpenWeb_colab-v10.ipynb```  : 기본 BitNet-b1.58-mamba  colab용    : 현재까지 추천, 꼭  a100, 25g vram 사용 , loss 그래프 나옴 
 
 💙💙 결과 
 
