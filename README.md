@@ -1,4 +1,4 @@
-# BitNet-b1.58-mamba
+# TernaryMamba: A ternary quantized language model based on the Mamba architecture, enabling model compression and efficient inference by representing weights as {-1, 0, 1}.
 
 <br><br>
 ## dependency
