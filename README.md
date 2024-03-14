@@ -14,7 +14,7 @@ A ternary quantized language model based on the Mamba architecture, enabling mod
 
 🟧🟧🟧🟧🟧  로컬 UBUNTU TESTED,   rtx 4090, TernaryMamba   =  OpenWebText 다운로드후  3/10 만 훈련, 대략 5GB 의 train 데이터셋 
 
-🟧 ```python MAIN/local_r2_TernaryMamba_data30_layer12_embed768.py```  :  vram 20GB
+🟧 ```python MAIN/local_r2_TernaryMamba_32_30_layer10_embed512``` 
 
 💙💙 결과 
 
