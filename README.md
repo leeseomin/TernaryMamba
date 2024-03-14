@@ -11,21 +11,16 @@ A ternary quantized language model based on the Mamba architecture, enabling mod
 ## run
 <br>
 
-🟧 ```b158_mamba_v2.py```  : 기본 BitNet-b1.58-mamba   : 현재까지 추천 
 
-🟧 ```b158_mamba_v2a.py```  : 기본 BitNet-b1.58-mamba   : 현재까지 추천 + safetensor로 저장하기 추가 
+🟧🟧🟧🟧🟧  로컬머신  rtx 4090, TernaryMamba   =  OpenWebText 다운로드후  3/10 만 훈련, 대략 5GB 의 train 데이터셋 (리소스제한등) 
 
-🟧 ```b158_mamba_v3.py```  : 기본 BitNet-b1.58-mamba   : 현재까지 추천  + Shakespeare 직적다운후에 진행 
-<br>
-
-
-🟧🟧🟧🟧🟧 OpenWebText 다운로드후  1/10 만 훈련, 대략 1.7GB 의 train 데이터셋 (리소스제한등) 
-
-🟧 ```mamba_OpenWeb_colab-v10.ipynb```  : 기본 mamba  colab용    : 
-
-🟧 ```b158_mamba_OpenWeb_colab-v10.ipynb```  : 기본 BitNet-b1.58-mamba  colab용    : 현재까지 추천, 꼭  a100, 25g vram 사용 , loss 그래프 나옴 
+🟧 ```python MAIN/local_r2_TernaryMamba_data30_layer12_embed768.py```  :  vram 20GB
 
 💙💙 결과 
+
+
+
+
 
 
 
