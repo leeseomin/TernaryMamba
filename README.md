@@ -25,7 +25,7 @@ The language model is constructed using Mamba blocks, which consist of:
 
 
 
-Dependency
+## Dependency
 Install the required dependencies using the following command:
 
 
