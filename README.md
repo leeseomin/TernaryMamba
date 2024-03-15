@@ -47,7 +47,7 @@ Install the required dependencies using the following command:
 ```colab_TernaryMamba_data50.ipynb```
 
 
-<br><br>
+<br>
 
 
 ## Disclaimer
