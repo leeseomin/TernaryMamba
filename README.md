@@ -31,12 +31,15 @@ Install the required dependencies using the following command:
 
 ```pip install mamba-ssm causal-conv1d```
 
-Run
+##  Run local 
 <br>
 🟧 Local UBUNTU TESTED, RTX 4090, TernaryMamba = OpenWebText downloaded, trained on 3/10 of the dataset
 
 ```python MAIN/local_r2_TernaryMamba_32_30_layer10_embed512.py```
 
+
+##  Run colab
+<br>
 🟧 If you have sufficient compute units on Colab Pro or higher, select A100 and train on 50% of the downloaded OpenWebText dataset
 
 
