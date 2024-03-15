@@ -1,6 +1,29 @@
 # TernaryMamba: 
 A ternary quantized language model based on the Mamba architecture, enabling model compression and efficient inference by representing weights as {-1, 0, 1}.
 
+Here's the modified version suitable for a markdown format:
+
+## Ternary Quantization
+The model's weights are quantized to three values: {-1, 0, 1}. This enables model compression and efficient inference by representing the weights in a compact form.
+
+## Mamba Architecture
+The language model is constructed using Mamba blocks, which consist of:
+- LayerNorm
+- SwiGLU (Swish activation + Gated Linear Unit)
+- Mamba State Space Model (SSM)
+
+## OpenWebText Dataset
+- The model is trained on 30~50% of the OpenWebText dataset.
+- The data is preprocessed and stored in binary format, which is loaded during training.
+
+## Model Training
+- The model is trained using the Adam optimizer.
+- During the training process:
+  - Train/val losses are periodically evaluated.
+  - The loss graph is updated.
+  - Sample texts are generated.
+ 
+  - 
 <br><br>
 ## dependency
 
