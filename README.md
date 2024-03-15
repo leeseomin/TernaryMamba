@@ -11,15 +11,10 @@ The language model is constructed using Mamba blocks, which consist of:
 - SwiGLU (Swish activation + Gated Linear Unit)
 - Mamba State Space Model (SSM)
 
-### OpenWebText Dataset
-- The model is trained on 30~50% of the OpenWebText dataset.
-- The data is preprocessed and stored in binary format, which is loaded during training.
 
 ### Model Training
 - The model is trained using the Adam optimizer.
-- During the training process:
-  - Train/val losses are periodically evaluated.
-  - The loss graph is updated.
+
 
 <br>
 
