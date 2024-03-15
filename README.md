@@ -44,6 +44,8 @@ Install the required dependencies using the following command:
 #### If you have sufficient compute units on Colab Pro or higher, select A100 and train on 50% of the downloaded OpenWebText dataset
 
 
+[Colab Notebook](https://github.com/leeseomin/TernaryMamba/blob/main/MAIN/colab_TernaryMamba_data50.ipynb)
+
 ```colab_TernaryMamba_data50.ipynb```
 
 
