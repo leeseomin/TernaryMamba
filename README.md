@@ -32,11 +32,12 @@ Install the required dependencies using the following command:
 ```pip install mamba-ssm causal-conv1d```
 
 
-## Quickstart (Shakespeare dataset)
+## Quickstart 
+(Shakespeare dataset)
 
 [Colab Notebook](https://github.com/leeseomin/TernaryMamba/blob/main/MAIN/tiny.ipynb)
 
-
+<br>
 
 ##  Run local 
 
