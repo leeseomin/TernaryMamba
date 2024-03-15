@@ -27,7 +27,7 @@ Install the required dependencies using the following command:
 <br>
 
 ## Quickstart 
-(Shakespeare dataset)
+(tiny shakespeare dataset)
 
 [Colab Notebook](https://github.com/leeseomin/TernaryMamba/blob/main/MAIN/tiny.ipynb)
 
