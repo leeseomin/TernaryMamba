@@ -1,12 +1,11 @@
 # TernaryMamba: 
 A ternary quantized language model based on the Mamba architecture, enabling model compression and efficient inference by representing weights as {-1, 0, 1}.
 
-Here's the modified version suitable for a markdown format:
 
-## Ternary Quantization
+### Ternary Quantization
 The model's weights are quantized to three values: {-1, 0, 1}. This enables model compression and efficient inference by representing the weights in a compact form.
 
-## Mamba Architecture
+### Mamba Architecture
 The language model is constructed using Mamba blocks, which consist of:
 - LayerNorm
 - SwiGLU (Swish activation + Gated Linear Unit)
