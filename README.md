@@ -21,9 +21,7 @@ The language model is constructed using Mamba blocks, which consist of:
   - Train/val losses are periodically evaluated.
   - The loss graph is updated.
 
-<br><br>
-
-
+<br>
 
 ## Dependency
 Install the required dependencies using the following command:
@@ -31,6 +29,7 @@ Install the required dependencies using the following command:
 
 ```pip install mamba-ssm causal-conv1d```
 
+<br>
 
 ## Quickstart 
 (Shakespeare dataset)
