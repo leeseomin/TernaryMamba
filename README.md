@@ -33,7 +33,7 @@ Install the required dependencies using the following command:
 
 ##  Run local 
 
-#### Local UBUNTU TESTED, RTX 4090, train on 50% of the downloaded OpenWebText dataset 
+#### Local UBUNTU TESTED, RTX 4090, train on 30% of the downloaded OpenWebText dataset 
 
 
 ```python MAIN/local_r2_TernaryMamba_32_30_layer10_embed512.py```
