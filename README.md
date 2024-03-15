@@ -31,6 +31,13 @@ Install the required dependencies using the following command:
 
 ```pip install mamba-ssm causal-conv1d```
 
+
+## Quickstart (Shakespeare dataset)
+
+[Colab Notebook](https://github.com/leeseomin/TernaryMamba/blob/main/MAIN/tiny.ipynb)
+
+
+
 ##  Run local 
 
 #### Local UBUNTU TESTED, RTX 4090, train on 30% of the downloaded OpenWebText dataset 
