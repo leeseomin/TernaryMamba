@@ -50,6 +50,10 @@ Install the required dependencies using the following command:
 
 
 
+## Disclaimer
+
+This is an experimental work that attempts to apply the ideas from the paper "The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits" on top of the foundation from "Mamba: Linear-Time Sequence Modeling with Selective State Spaces". Due to limited GPU resources, extensive testing has not been conducted, so please be aware that there are many limitations. Use with caution.
+
 
 
 
