@@ -34,17 +34,16 @@ Install the required dependencies using the following command:
 ##  Run local 
 <br>
 <br>
-🟧 Local UBUNTU TESTED, RTX 4090, train on 50% of the downloaded OpenWebText dataset 
+Local UBUNTU TESTED, RTX 4090, train on 50% of the downloaded OpenWebText dataset 
 <br>
-<br>
+
 ```python MAIN/local_r2_TernaryMamba_32_30_layer10_embed512.py```
 
 
 ##  Run colab
 <br>
 <br>
-🟧 If you have sufficient compute units on Colab Pro or higher, select A100 and train on 50% of the downloaded OpenWebText dataset
-<br>
+If you have sufficient compute units on Colab Pro or higher, select A100 and train on 50% of the downloaded OpenWebText dataset
 <br>
 
 ```colab_TernaryMamba_data50.ipynb```
