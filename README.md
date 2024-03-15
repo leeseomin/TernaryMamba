@@ -21,7 +21,6 @@ The language model is constructed using Mamba blocks, which consist of:
 - During the training process:
   - Train/val losses are periodically evaluated.
   - The loss graph is updated.
-  - Sample texts are generated.
  
   - 
 <br><br>
