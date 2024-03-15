@@ -20,6 +20,9 @@ A ternary quantized language model based on the Mamba architecture, enabling mod
 
 
 
+🟧🟧🟧🟧🟧 colab a100, OpenWebText 다운로드후  50%  만 훈련
+
+```colab_TernaryMamba_data50.ipynb```
 
 
 
