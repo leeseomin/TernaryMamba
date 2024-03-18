@@ -16,6 +16,9 @@ The language model is constructed using Mamba blocks, which consist of:
 - The model is trained using the Adam optimizer.
 
 
+<img src="https://github.com/leeseomin/SUBYOU/blob/main/pic/5.png" width="100%">
+
+
 <br>
 
 ## Dependency
